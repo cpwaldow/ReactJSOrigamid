@@ -28,7 +28,7 @@ const mario = {
   ativa: false
 }; 
 
-const Exercicio = () => {
+const Jsx = () => {
   const dados = luana;
 
   const total = dados.compras
@@ -50,4 +50,4 @@ const Exercicio = () => {
   )
 }
 
-export default Exercicio;
+export default Jsx;
