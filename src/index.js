@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
-import Exercicio from './Exercicio';
+import Jsx from './Jsx';
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    <Exercicio />
+    <Jsx />
   </React.StrictMode>,
   document.getElementById('root')
 );
