@@ -16,7 +16,7 @@ const luana = {
   ativa: true,
 };
 
-const mario = {
+/* const mario = {
   cliente: 'Mario',
   idade: 31,
   compras: [
@@ -26,7 +26,7 @@ const mario = {
     { nome: 'Guitarra', preco: 'R$ 3500' },
   ],
   ativa: false
-}; 
+};  */
 
 const Jsx = () => {
   const dados = luana;
