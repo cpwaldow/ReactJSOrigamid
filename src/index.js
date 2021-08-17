@@ -6,11 +6,12 @@ import ReactDOM from 'react-dom';
 //import Eventos from './Eventos'; 
 //import Componentes from './Componentes'
 //import Propriedades from './Propriedades'
-import Page from './DesafioComponentes/Page'
+//import Page from './DesafioComponentes/Page'
+import HookUseState from './HookUseState'
 
 ReactDOM.render(
   <React.StrictMode>
-    <Page />
+    <HookUseState />
   </React.StrictMode>,
   document.getElementById('root')
 );
